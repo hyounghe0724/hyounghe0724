@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   --> Development of chat-bot is ChatGpt API With RAG ( Retrieval-Augmented Generation ) 
 - https://github.com/tjdalsquf8/Pet-In-Memory
   --> Pet In Memory is an AR application that creates touching reunions and memories with lost pets
-  --> Development of Creating a 3D model of a photo of people's dog (coming soon)
+  --> Development of Creating a 3D model of a photo of people's dog (in progress)
